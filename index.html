@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ayman Al-Jamal - Portfolio</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+        body {
+            font-family: 'Poppins', sans-serif;
+            background: linear-gradient(to right, #3ea8d5, #203a43, #2c5364);
+            color: #fff;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+
+        header {
+            padding: 50px 0;
+            animation: fadeIn 2s;
+        }
+
+        .profile-pic {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            border: 5px solid #fff;
+            box-shadow: 0 0 15px rgba(255, 255, 255, 0.6);
+            transition: transform 0.3s;
+        }
+        .profile-pic:hover {
+            transform: scale(1.1);
+        }
+
+        h1 {
+            font-size: 2.8em;
+            margin: 10px 0;
+        }
+
+        h2 {
+            border-bottom: 2px solid #00d2ff;
+            padding-bottom: 10px;
+            display: inline-block;
+        }
+
+        section {
+            margin: 20px auto;
+            padding: 20px;
+            max-width: 800px;
+            background: rgba(0, 0, 0, 0.7);
+            border-radius: 15px;
+            box-shadow: 0 0 20px rgba(255, 255, 255, 0.3);
+            animation: slideIn 1s ease-in-out;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        
+        li::before {
+            content: '⭐';
+            margin-right: 8px;
+        }
+
+        .social-links a {
+            color: #fff;
+            text-decoration: none;
+            margin: 10px;
+            padding: 12px 18px;
+            border-radius: 8px;
+            display: inline-block;
+            transition: all 0.3s;
+            font-size: 1.4em;
+            background: rgba(255, 255, 255, 0.1);
+        }
+
+        .social-links a:hover {
+            background: #00d2ff;
+            transform: scale(1.1);
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px 0;
+            background: rgba(0, 0, 0, 0.9);
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        @keyframes slideIn {
+            from { transform: translateY(20px); opacity: 0; }
+            to { transform: translateY(0); opacity: 1; }
+        }
+
+        #back-to-top {
+            display: none;
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background: #00d2ff;
+            color: #fff;
+            padding: 12px 16px;
+            border-radius: 50%;
+            font-size: 1.5em;
+            cursor: pointer;
+            box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+            transition: all 0.3s;
+        }
+
+        #back-to-top:hover {
+            background: #0093c4;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="aymana.jpg" alt="Ayman Al-Jamal" class="profile-pic">
+        <h1>Ayman Mohammed Al-Jamal</h1>
+        <p>📍 Silwad, Palestine | 📞 <a href="tel:+970595248274">+970 595 248 274</a></p>
+    </header>
+
+    <section id="about">
+        <h2>💻 About Me</h2>
+        <p>I am a passionate programmer and tech enthusiast with a keen interest in <strong>Java</strong>, <strong>Python</strong>, and <strong>project management</strong>. My goal is to continuously learn, grow, and contribute to the tech community.</p>
+    </section>
+
+    <section id="interests">
+        <h2>🌟 Interests</h2>
+        <ul>
+            <li>Software Development (Java, Python)</li>
+            <li>Project Management & Critical Path Analysis</li>
+            <li>Gaming & Content Creation</li>
+            <li>Learning and Sharing Knowledge</li>
+        </ul>
+    </section>
+
+    <section id="connect">
+        <h2>🔗 Connect with Me</h2>
+        <div class="social-links">
+            <a href="https://www.facebook.com/share/1GarkogthV/" target="_blank"><i class="fab fa-facebook"></i> Facebook</a>
+            <a href="https://www.threads.net/@abu_aljamalll" target="_blank"><i class="fab fa-threads"></i> Threads</a>
+            <a href="https://www.instagram.com/abu_aljamalll" target="_blank"><i class="fab fa-instagram"></i> Instagram</a>
+            <a href="https://github.com/aymanaljamal" target="_blank"><i class="fab fa-github"></i> GitHub</a>
+            <a href="https://www.linkedin.com/in/ayman-jamal-0a8416332" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
+        </div>
+    </section>
+
+    <footer>
+        <p>📞 <a href="tel:+970595248274"> 059 524 9274</a> | 📧 <a href="mailto:ayman.aljamal2017@gmail.com">ayman.aljamal2017@gmail.com</a></p>
+        <p>&copy; 2025 Ayman Al-Jamal. All rights reserved.</p>
+    </footer>
+
+    <button id="back-to-top" title="Back to Top">⬆</button>
+
+    <script>
+        const backToTopButton = document.getElementById('back-to-top');
+        window.addEventListener('scroll', () => {
+            if (window.scrollY > 300) {
+                backToTopButton.style.display = 'block';
+            } else {
+                backToTopButton.style.display = 'none';
+            }
+        });
+        
+        backToTopButton.addEventListener('click', () => {
+            window.scrollTo({
+                top: 0,
+                behavior: 'smooth'
+            });
+        });
+    </script>
+</body>
+</html>
