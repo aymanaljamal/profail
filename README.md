@@ -79,15 +79,6 @@
 
   <!-- GitHub Streak - SUPPORTED -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aymanaljamal&theme=radical&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" height="180" />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=aymanaljamal&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=00D4FF&title_color=00D4FF&text_color=c9d1d9" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymanaljamal&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9" height="180" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=aymanaljamal&theme=radical&no-frame=true&row=1&column=6" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aymanaljamal&bg_color=0d1117&color=00D4FF&line=00D4FF&point=FF6B6B&hide_border=true" />
-
 </div>
 
 ## 🎓 **ACADEMIC ODYSSEY**
@@ -97,7 +88,6 @@
 
   ![Birzeit University](https://github.com/user-attachments/assets/bdb857e6-60d4-473f-b86d-286cf9060555)
   
-  ### 🏛️ **BIRZEIT UNIVERSITY**
   <h3 style="color: #00D4FF; margin-top: 10px;">🎓 Bachelor of Computer Science</h3>
   
   <div style="display: flex; justify-content: center; gap: 30px; margin-top: 20px;">
