@@ -79,8 +79,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aymanaljamal&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymanaljamal&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=ffffff" height="180" />
 
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aymanaljamal&theme=radical&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" height="180" />
   
 </div>
 
@@ -101,7 +99,7 @@
   ### 🏛️ **BIRZEIT UNIVERSITY**
   <h3 style="color: #00D4FF; margin-top: 10px;">🎓 Bachelor of Computer Science</h3>
   
-  <div style="display: flex; justify-content: center; gap: 30px; margin-top: 20px;">
+  <div style="display: flex; gap: 30px; margin-top: 20px;">
     <div style="text-align: center;">
       <div style="font-size: 24px; color: #FF6B6B;">🏆</div>
       <div style="color: #ffffff;">Top Performer</div>
@@ -164,7 +162,7 @@
 <!-- Skills Icons -->
 ## 🛠️ **TECHNICAL ARSENAL**
 
-<div align="center" style="margin: 40px 0;">
+<div  style="margin: 40px 0;">
   
   <!-- Backend Tools -->
   <h3 style="color: #00D4FF;">🔧 Backend Development</h3>
@@ -174,19 +172,19 @@
   
   <!-- Mobile & Frontend -->
   <h3 style="color: #FF6B6B; margin-top: 30px;">📱 Mobile & Frontend</h3>
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
+  <div style="display: flex;  flex-wrap: wrap; gap: 15px; margin: 20px 0;">
     <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,firebase" />
   </div>
   
   <!-- DevOps & Cloud -->
   <h3 style="color: #7F52FF; margin-top: 30px;">☁️ DevOps & Cloud</h3>
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
+  <div style="display: flex; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
     <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,nginx,linux" />
   </div>
   
   <!-- Tools -->
   <h3 style="color: #FFD700; margin-top: 30px;">⚙️ Development Tools</h3>
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
+  <div style="display: flex;  flex-wrap: wrap; gap: 15px; margin: 20px 0;">
     <img src="https://skillicons.dev/icons?i=idea,vscode,git,postman,github" />
   </div>
 
@@ -205,7 +203,7 @@
 
 ## 🌐 **CONNECT WITH ME**
 
-<div align="center" style="margin: 40px 0;">
+<div style="margin: 40px 0;">
   
   <!-- Social Links -->
   <a href="https://github.com/aymanaljamal" target="_blank">
