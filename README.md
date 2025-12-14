@@ -12,10 +12,11 @@
 <br>
 
 <div align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=aymanaljamal&color=00D4FF&style=flat-square)
-  ![GitHub Followers](https://img.shields.io/github/followers/aymanaljamal?color=00D4FF&style=for-the-badge&logo=github)
-  ![GitHub Stars](https://img.shields.io/github/stars/aymanaljamal?color=00D4FF&style=for-the-badge&logo=github)
+  <img src="https://komarev.com/ghpvc/?username=aymanaljamal&color=00D4FF&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/aymanaljamal?color=00D4FF&style=flat-square&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/aymanaljamal?color=00D4FF&style=flat-square&logo=github" alt="GitHub Stars" />
 </div>
+
 
 ## ✨ **TECHNICAL PANORAMA**
 
