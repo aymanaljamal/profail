@@ -1,14 +1,24 @@
 # 🌟 **AYMAN AL-JAMAL** 🚀  
 
-<!-- Animated Header - SUPPORTED ON GITHUB -->
+<!-- Animated Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=80&lines=Spring+Boot+%7C+Flutter+%7C+Docker+%7C+Android;Building+Scalable+Solutions+%F0%9F%9A%80;Passionate+About+Clean+Code+%E2%9C%A8" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=900&color=00D4FF&center=true&vCenter=true&width=650&height=70&lines=Spring+Boot+%7C+Flutter+%7C+Docker+%7C+Android;Building+Scalable+Solutions;Clean+Code+Advocate"
+    alt="Typing SVG"
+  />
 </div>
 
-<!-- Profile GIF - SUPPORTED -->
+
+<!-- Profile GIF - Large -->
 <div align="center">
-  <img src="https://cdn.dribbble.com/userupload/23222592/file/original-c8bbbfe77c09460ce990b268598ed119.gif" width="280" height="280" style="border-radius: 50%; border: 4px solid #00D4FF; box-shadow: 0 0 30px #00D4FF;" />
+  <img
+    src="https://cdn.dribbble.com/userupload/23222592/file/original-c8bbbfe77c09460ce990b268598ed119.gif"
+    width="380"
+    height="380"
+    style="border-radius: 50%; border: 5px solid #00D4FF;"
+  />
 </div>
+
 
 <br>
 
