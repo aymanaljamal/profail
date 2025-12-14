@@ -3,10 +3,11 @@
 <!-- Animated Header -->
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=900&color=00D4FF&center=true&vCenter=true&width=650&height=70&lines=Spring+Boot+%7C+Flutter+%7C+Docker+%7C+Android;Building+Scalable+Solutions;Clean+Code+Advocate"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=900&color=00D4FF&center=true&vCenter=true&width=900&height=80&lines=Spring+Boot+%7C+Flutter+%7C+Docker+%7C+Android;Building+Scalable+Solutions;Clean+Code+Advocate"
     alt="Typing SVG"
   />
 </div>
+
 
 
 <!-- Profile GIF - Large -->
