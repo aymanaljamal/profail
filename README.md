@@ -1,19 +1,20 @@
 # 🌟 **AYMAN AL-JAMAL** 🚀  
 *Full-Stack Developer & Cloud Architect*
 
-<!-- Animated Header - SUPPORTED ON GITHUB -->
+<!-- Animated Header - Adjusted for full text visibility -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=80&lines=Spring+Boot+%7C+Flutter+%7C+Docker+%7C+Android;Building+Scalable+Solutions+%F0%9F%9A%80;Passionate+About+Clean+Code+%E2%9C%A8" alt="Typing SVG" />
+  <!-- Increased width and reduced font size slightly for better fit -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&height=80&lines=Spring+Boot+%7C+Flutter+%7C+Docker+%7C+Android+Developer;Building+Scalable+Solutions+with+Clean+Code;Passionate+About+Backend+%26+Mobile+Development" alt="Typing SVG" />
 </div>
 
-<!-- Profile GIF - SUPPORTED -->
+<!-- Profile GIF -->
 <div align="center">
   <img src="https://cdn.dribbble.com/userupload/23222592/file/original-c8bbbfe77c09460ce990b268598ed119.gif" width="280" height="280" style="border-radius: 50%; border: 4px solid #00D4FF; box-shadow: 0 0 30px #00D4FF;" />
 </div>
 
 <br>
 
-<!-- GitHub Stats - SUPPORTED -->
+<!-- GitHub Stats -->
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=aymanaljamal&color=00D4FF&style=flat-square)
@@ -24,7 +25,7 @@
 
 ## ✨ **TECHNICAL PANORAMA**
 
-<!-- Tech Stack Grid - SUPPORTED -->
+<!-- Tech Stack Grid -->
 <div align="center">
   
 ### **🔄 CORE TECHNOLOGIES**
@@ -37,7 +38,7 @@
 
 </div>
 
-<!-- Skill Bars (ASCII Art) - SUPPORTED -->
+<!-- Skill Bars (ASCII Art) -->
 ## 📊 **SKILL MASTERY**
 
 ```
@@ -69,7 +70,7 @@
 └─────────────────────────────────────────┘
 ```
 
-<!-- GitHub Stats with Animation - SUPPORTED -->
+<!-- GitHub Stats with Animation -->
 ## 📈 **GITHUB DYNAMICS**
 
 <div align="center">
@@ -78,12 +79,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aymanaljamal&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymanaljamal&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=ffffff" height="180" />
 
-  <!-- GitHub Streak - SUPPORTED -->
+  <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aymanaljamal&theme=radical&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" height="180" />
   
 </div>
 
-<!-- GitHub Trophies - SUPPORTED -->
+<!-- GitHub Trophies -->
 <div align="center">
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=aymanaljamal&theme=radical&no-frame=true&row=1&column=4&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
@@ -92,7 +93,7 @@
 
 ## 🎓 **ACADEMIC ODYSSEY**
 
-<!-- Education Card - SUPPORTED -->
+<!-- Education Card -->
 <div align="center" style="background: linear-gradient(135deg, #0d1117 0%, #1a1f2e 100%); padding: 25px; border-radius: 20px; border: 1px solid #00D4FF;">
 
   ![Birzeit University](https://github.com/user-attachments/assets/bdb857e6-60d4-473f-b86d-286cf9060555)
@@ -119,7 +120,7 @@
 
 ## 🚀 **PROJECT GALAXY**
 
-<!-- Project Cards - SUPPORTED -->
+<!-- Project Cards -->
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px; margin-top: 40px;">
 
   <!-- Project 1 -->
@@ -160,7 +161,7 @@
 
 </div>
 
-<!-- Skills Icons - SUPPORTED -->
+<!-- Skills Icons -->
 ## 🛠️ **TECHNICAL ARSENAL**
 
 <div align="center" style="margin: 40px 0;">
@@ -206,7 +207,7 @@
 
 <div align="center" style="margin: 40px 0;">
   
-  <!-- Social Links - SUPPORTED -->
+  <!-- Social Links -->
   <a href="https://github.com/aymanaljamal" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 10px;" />
   </a>
@@ -225,7 +226,7 @@
 
 </div>
 
-<!-- GitHub Activity Graph - SUPPORTED -->
+<!-- GitHub Activity Graph -->
 <div align="center">
   
   <h3 style="color: #FF6B6B; margin-bottom: 20px;">📊 DEVELOPMENT ACTIVITY</h3>
@@ -235,7 +236,7 @@
   
 </div>
 
-<!-- Quote Section - SUPPORTED -->
+<!-- Quote Section -->
 <div align="center" style="margin: 50px 0; padding: 30px; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(127, 82, 255, 0.1) 100%); border-radius: 20px; border-left: 5px solid #00D4FF; border-right: 5px solid #7F52FF;">
   
   <h2 style="color: #00D4FF; font-style: italic;">"First, solve the problem. Then, write the code."</h2>
@@ -243,7 +244,7 @@
   
 </div>
 
-<!-- Footer - SUPPORTED -->
+<!-- Footer -->
 <div align="center" style="margin-top: 50px; padding: 20px; border-top: 1px solid #00D4FF;">
   
   <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
@@ -262,7 +263,7 @@
 
 <div align="center">
   
-  <!-- Visitor Counter - SUPPORTED -->
+  <!-- Visitor Counter -->
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Faymanaljamal&label=VISITORS&countColor=%2300D4FF&style=for-the-badge" />
   
 </div>
@@ -280,7 +281,7 @@
   
 </div>
 
-<!-- Additional GitHub Widgets - SUPPORTED -->
+<!-- Additional GitHub Widgets -->
 <div align="center" style="margin-top: 30px;">
   
   ![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=aymanaljamal&limit=5&theme=radical&combine_all_yearly_contributions=true)
