@@ -88,9 +88,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aymanaljamal&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymanaljamal&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=ffffff" height="180" />
 
-  <!-- GitHub Streak - SUPPORTED -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aymanaljamal&theme=radical&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" height="180" />
-</div>
+ 
 
 ## 🎓 **ACADEMIC ODYSSEY**
 
