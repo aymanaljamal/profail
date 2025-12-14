@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/userupload/23222592/file/original-c8bbbfe77c09460ce990b268598ed119.gif" width="180" height="180" style="border-radius: 50%; border: 4px solid #00D4FF; box-shadow: 0 0 30px #00D4FF;" />
+  <img src="https://cdn.dribbble.com/userupload/23222592/file/original-c8bbbfe77c09460ce990b268598ed119.gif" width="800" height="800" style="border-radius: 50%; border: 4px solid #00D4FF; box-shadow: 0 0 30px #00D4FF;" />
 </div>
 
 <br>
