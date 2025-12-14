@@ -27,10 +27,10 @@
 
 **Passionate software developer** specializing in building scalable web and mobile applications using cutting-edge technologies. Strong expertise in **Spring Boot** & **Flutter** with focus on cloud solutions and modern infrastructure.
 
-- 🔹 **Specializing in:** Backend APIs, Mobile Apps, Cloud Architecture  
-- 🔹 **Looking for:** Internship & Full-time opportunities  
-- 🔹 **Location:** Palestine  
-- 🔹 **Education:** Computer Science @ Birzeit University (GPA: 3.8/4.0)
+🔹 **Specializing in:** Backend APIs, Mobile Apps, Cloud Architecture  
+🔹 **Looking for:** Internship & Full-time opportunities  
+🔹 **Location:** Palestine  
+🔹 **Education:** Computer Science @ Birzeit University (GPA: 3.8/4.0)
 
 ---
 
