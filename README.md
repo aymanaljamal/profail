@@ -14,8 +14,8 @@
 <div align="center">
   <img
     src="https://cdn.dribbble.com/userupload/23222592/file/original-c8bbbfe77c09460ce990b268598ed119.gif"
-    width="380"
-    height="380"
+    width="600"
+    height="600"
     style="border-radius: 50%; border: 5px solid #00D4FF;"
   />
 </div>
