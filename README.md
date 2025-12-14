@@ -1,35 +1,28 @@
-# 🌟 **AYMAN AL-JAMAL** 🚀  
+# 🌟 **Ayman Jamal** 🚀  
 *Full-Stack Developer & Cloud Architect*
 
-<!-- Animated Header - Adjusted for full text visibility -->
 <div align="center">
-  <!-- Increased width and reduced font size slightly for better fit -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&height=80&lines=Spring+Boot+%7C+Flutter+%7C+Docker+%7C+Android+Developer;Building+Scalable+Solutions+with+Clean+Code;Passionate+About+Backend+%26+Mobile+Development" alt="Typing SVG" />
 </div>
 
-<!-- Profile GIF -->
 <div align="center">
-  <img src="https://cdn.dribbble.com/userupload/23222592/file/original-c8bbbfe77c09460ce990b268598ed119.gif" width="280" height="280" style="border-radius: 50%; border: 4px solid #00D4FF; box-shadow: 0 0 30px #00D4FF;" />
+  <img src="https://cdn.dribbble.com/userupload/23222592/file/original-c8bbbfe77c09460ce990b268598ed119.gif" width="180" height="180" style="border-radius: 50%; border: 4px solid #00D4FF; box-shadow: 0 0 30px #00D4FF;" />
 </div>
 
 <br>
 
-<!-- GitHub Stats -->
 <div align="center">
-  
   ![Profile Views](https://komarev.com/ghpvc/?username=aymanaljamal&color=00D4FF&style=flat-square)
   ![GitHub Followers](https://img.shields.io/github/followers/aymanaljamal?color=00D4FF&style=for-the-badge&logo=github)
   ![GitHub Stars](https://img.shields.io/github/stars/aymanaljamal?color=00D4FF&style=for-the-badge&logo=github)
-
 </div>
 
 ## ✨ **TECHNICAL PANORAMA**
 
-<!-- Tech Stack Grid -->
-<div align="center">
-  
+<div align="left">
+
 ### **🔄 CORE TECHNOLOGIES**
-  
+
 | Backend Magic | Mobile Universe | DevOps Cloud |
 | :---: | :---: | :---: |
 | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
@@ -38,8 +31,9 @@
 
 </div>
 
-<!-- Skill Bars (ASCII Art) -->
 ## 📊 **SKILL MASTERY**
+
+<div align="left">
 
 ```
 ┌─────────────────────────────────────────┐
@@ -70,45 +64,37 @@
 └─────────────────────────────────────────┘
 ```
 
-<!-- GitHub Stats with Animation -->
-## 📈 **GITHUB DYNAMICS**
-
-<div align="center">
-  
-  <!-- GitHub Stats Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=aymanaljamal&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymanaljamal&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=ffffff" height="180" />
-
-  
 </div>
 
-<!-- GitHub Trophies -->
-<div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=aymanaljamal&theme=radical&no-frame=true&row=1&column=4&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+## 📈 **GITHUB DYNAMICS**
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=aymanaljamal&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymanaljamal&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=ffffff" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aymanaljamal&theme=radical&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" height="180" />
+</div>
+
+<div align="left">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=aymanaljamal&theme=radical&no-frame=true&row=1&column=4&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 ## 🎓 **ACADEMIC ODYSSEY**
 
-<!-- Education Card -->
-<div align="center" style="background: linear-gradient(135deg, #0d1117 0%, #1a1f2e 100%); padding: 25px; border-radius: 20px; border: 1px solid #00D4FF;">
+<div align="left" style="background: linear-gradient(135deg, #0d1117 0%, #1a1f2e 100%); padding: 25px; border-radius: 20px; border: 1px solid #00D4FF; margin: 20px 0;">
 
-  ![Birzeit University](https://github.com/user-attachments/assets/bdb857e6-60d4-473f-b86d-286cf9060555)
-  
   ### 🏛️ **BIRZEIT UNIVERSITY**
   <h3 style="color: #00D4FF; margin-top: 10px;">🎓 Bachelor of Computer Science</h3>
   
-  <div style="display: flex; gap: 30px; margin-top: 20px;">
-    <div style="text-align: center;">
+  <div style="display: flex; justify-content: flex-start; gap: 30px; margin-top: 20px;">
+    <div style="text-align: left;">
       <div style="font-size: 24px; color: #FF6B6B;">🏆</div>
       <div style="color: #ffffff;">Top Performer</div>
     </div>
-    <div style="text-align: center;">
+    <div style="text-align: left;">
       <div style="font-size: 24px; color: #00D4FF;">📚</div>
       <div style="color: #ffffff;">GPA: 3.8/4.0</div>
     </div>
-    <div style="text-align: center;">
+    <div style="text-align: left;">
       <div style="font-size: 24px; color: #7F52FF;">🎯</div>
       <div style="color: #ffffff;">Graduating 2026</div>
     </div>
@@ -118,8 +104,7 @@
 
 ## 🚀 **PROJECT GALAXY**
 
-<!-- Project Cards -->
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px; margin-top: 40px;">
+<div align="left" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px; margin-top: 40px;">
 
   <!-- Project 1 -->
   <div style="background: linear-gradient(145deg, #1a1f2e, #0d1117); padding: 25px; border-radius: 15px; border: 1px solid #00D4FF;">
@@ -159,20 +144,19 @@
 
 </div>
 
-<!-- Skills Icons -->
 ## 🛠️ **TECHNICAL ARSENAL**
 
-<div  style="margin: 40px 0;">
+<div align="left" style="margin: 40px 0;">
   
   <!-- Backend Tools -->
   <h3 style="color: #00D4FF;">🔧 Backend Development</h3>
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
+  <div style="display: flex; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
     <img src="https://skillicons.dev/icons?i=spring,java,gradle,maven,hibernate,postgres,mysql" />
   </div>
   
   <!-- Mobile & Frontend -->
   <h3 style="color: #FF6B6B; margin-top: 30px;">📱 Mobile & Frontend</h3>
-  <div style="display: flex;  flex-wrap: wrap; gap: 15px; margin: 20px 0;">
+  <div style="display: flex; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
     <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,firebase" />
   </div>
   
@@ -184,7 +168,7 @@
   
   <!-- Tools -->
   <h3 style="color: #FFD700; margin-top: 30px;">⚙️ Development Tools</h3>
-  <div style="display: flex;  flex-wrap: wrap; gap: 15px; margin: 20px 0;">
+  <div style="display: flex; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
     <img src="https://skillicons.dev/icons?i=idea,vscode,git,postman,github" />
   </div>
 
@@ -192,7 +176,7 @@
 
 ## 📚 **CERTIFICATIONS & LEARNING**
 
-<div align="center">
+<div align="left">
   
   ![PortSwigger](https://img.shields.io/badge/PortSwigger_Academy-Expert-FF6B6B?style=for-the-badge&logo=portswigger&logoColor=white)
   ![W3Schools](https://img.shields.io/badge/W3Schools-Master-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white)
@@ -203,7 +187,7 @@
 
 ## 🌐 **CONNECT WITH ME**
 
-<div style="margin: 40px 0;">
+<div align="left" style="margin: 40px 0;">
   
   <!-- Social Links -->
   <a href="https://github.com/aymanaljamal" target="_blank">
@@ -224,8 +208,7 @@
 
 </div>
 
-<!-- GitHub Activity Graph -->
-<div align="center">
+<div align="left">
   
   <h3 style="color: #FF6B6B; margin-bottom: 20px;">📊 DEVELOPMENT ACTIVITY</h3>
   
@@ -234,18 +217,16 @@
   
 </div>
 
-<!-- Quote Section -->
-<div align="center" style="margin: 50px 0; padding: 30px; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(127, 82, 255, 0.1) 100%); border-radius: 20px; border-left: 5px solid #00D4FF; border-right: 5px solid #7F52FF;">
+<div align="left" style="margin: 50px 0; padding: 30px; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(127, 82, 255, 0.1) 100%); border-radius: 20px; border-left: 5px solid #00D4FF; border-right: 5px solid #7F52FF;">
   
   <h2 style="color: #00D4FF; font-style: italic;">"First, solve the problem. Then, write the code."</h2>
   <p style="color: #FFD700; margin-top: 10px;">- John Johnson</p>
   
 </div>
 
-<!-- Footer -->
-<div align="center" style="margin-top: 50px; padding: 20px; border-top: 1px solid #00D4FF;">
+<div align="left" style="margin-top: 50px; padding: 20px; border-top: 1px solid #00D4FF;">
   
-  <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
+  <div style="display: flex; gap: 15px; margin-bottom: 15px;">
     <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00D4FF?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Available%20for-Collaborations-7F52FF?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Location-Palestine-FF6B6B?style=for-the-badge" />
@@ -259,16 +240,15 @@
 
 ---
 
-<div align="center">
+<div align="left">
   
-  <!-- Visitor Counter -->
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Faymanaljamal&label=VISITORS&countColor=%2300D4FF&style=for-the-badge" />
   
 </div>
 
 ## 📞 **CONTACT INFORMATION**
 
-<div align="center" style="background: #0d1117; padding: 20px; border-radius: 15px; margin-top: 30px;">
+<div align="left" style="background: #0d1117; padding: 20px; border-radius: 15px; margin-top: 30px;">
   
   <p style="color: #ffffff;">
     📧 <strong>Email:</strong> ayman.aljamal@example.com<br>
@@ -279,8 +259,7 @@
   
 </div>
 
-<!-- Additional GitHub Widgets -->
-<div align="center" style="margin-top: 30px;">
+<div align="left" style="margin-top: 30px;">
   
   ![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=aymanaljamal&limit=5&theme=radical&combine_all_yearly_contributions=true)
   
