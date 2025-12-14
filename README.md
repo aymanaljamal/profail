@@ -12,10 +12,11 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aymanaljamal&color=00D4FF&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/aymanaljamal?color=00D4FF&style=flat-square&logo=github" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/aymanaljamal?color=00D4FF&style=flat-square&logo=github" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=aymanaljamal&color=00D4FF&style=flat-square" alt="Profile Views" width="180" />
+  <img src="https://img.shields.io/github/followers/aymanaljamal?color=00D4FF&style=flat-square&logo=github" alt="GitHub Followers" width="180" />
+  <img src="https://img.shields.io/github/stars/aymanaljamal?color=00D4FF&style=flat-square&logo=github" alt="GitHub Stars" width="180" />
 </div>
+
 
 
 ## ✨ **TECHNICAL PANORAMA**
@@ -76,8 +77,9 @@
 </div>
 
 <div align="left">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=aymanaljamal&theme=radical&no-frame=true&row=1&column=4&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=aymanaljamal&theme=dark&no-frame=true&row=1&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
+
 
 ## 🎓 **ACADEMIC ODYSSEY**
 
@@ -90,10 +92,6 @@
     <div style="text-align: left;">
       <div style="font-size: 24px; color: #FF6B6B;">🏆</div>
       <div style="color: #ffffff;">Top Performer</div>
-    </div>
-    <div style="text-align: left;">
-      <div style="font-size: 24px; color: #00D4FF;">📚</div>
-      <div style="color: #ffffff;">GPA: 3.8/4.0</div>
     </div>
     <div style="text-align: left;">
       <div style="font-size: 24px; color: #7F52FF;">🎯</div>
