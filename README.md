@@ -86,7 +86,8 @@
 <!-- GitHub Trophies - SUPPORTED -->
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=aymanaljamal&theme=radical&no-frame=true&row=1&column=4&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=aymanaljamal&theme=radical&row=1&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 </div>
 
@@ -104,10 +105,6 @@
     <div style="text-align: center;">
       <div style="font-size: 24px; color: #FF6B6B;">🏆</div>
       <div style="color: #ffffff;">Top Performer</div>
-    </div>
-    <div style="text-align: center;">
-      <div style="font-size: 24px; color: #00D4FF;">📚</div>
-      <div style="color: #ffffff;">GPA: 3.8/4.0</div>
     </div>
     <div style="text-align: center;">
       <div style="font-size: 24px; color: #7F52FF;">🎯</div>
