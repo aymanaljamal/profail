@@ -1,288 +1,300 @@
+# 🌟 **AYMAN AL-JAMAL** 🚀  
+*Full-Stack Developer & Cloud Architect*
 
-<div dir="rtl">
-# 🌟 **أيمن الجمل** 🚀
-
+<!-- Animated Header - SUPPORTED ON GITHUB -->
 <div align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=900&color=00D4FF&center=true&vCenter=true&width=900&height=80&lines=Spring+Boot+%7C+Flutter+%7C+Docker+%7C+Android;بناء+حلول+قابلة+للتطوير;مدافع+عن+الكود+النظيف"
-    alt="العنوان المتحرك: Spring Boot | Flutter | Docker | Android | بناء حلول قابلة للتطوير | مدافع عن الكود النظيف"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=80&lines=Spring+Boot+%7C+Flutter+%7C+Docker+%7C+Android;Building+Scalable+Solutions+%F0%9F%9A%80;Passionate+About+Clean+Code+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
+<!-- Profile GIF - SUPPORTED -->
 <div align="center">
-  <img
-    src="https://cdn.dribbble.com/userupload/23222592/file/original-c8bbbfe77c09460ce990b268598ed119.gif"
-    width="600"
-    height="600"
-    style="border-radius: 50%; border: 5px solid #00D4FF; box-shadow: 0 0 20px #00D4FF;"
-    alt="صورة متحركة للبروفايل"
-  />
+  <img src="https://cdn.dribbble.com/userupload/23222592/file/original-c8bbbfe77c09460ce990b268598ed119.gif" width="280" height="280" style="border-radius: 50%; border: 4px solid #00D4FF; box-shadow: 0 0 30px #00D4FF;" />
 </div>
 
 <br>
 
+<!-- GitHub Stats - SUPPORTED -->
 <div align="center">
-  
-  ![مشاهدات البروفايل](https://komarev.com/ghpvc/?username=aymanaljamal&color=00D4FF&style=for-the-badge&label=مشاهدات%20الملف%20الشخصي)
-  ![المتابعون في GitHub](https://img.shields.io/github/followers/aymanaljamal?color=00D4FF&style=for-the-badge&logo=github&label=المتابعون)
-  ![نجوم GitHub](https://img.shields.io/github/stars/aymanaljamal?color=00D4FF&style=for-the-badge&logo=github&label=النجوم)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=aymanaljamal&color=00D4FF&style=flat-square)
+  ![GitHub Followers](https://img.shields.io/github/followers/aymanaljamal?color=00D4FF&style=for-the-badge&logo=github)
+  ![GitHub Stars](https://img.shields.io/github/stars/aymanaljamal?color=00D4FF&style=for-the-badge&logo=github)
 
 </div>
 
-## ✨ **بانوراما تقنية متكاملة** 💻
+## ✨ **TECHNICAL PANORAMA**
 
-<div align="right">
-  
-### **🔄 التقنيات الأساسية (CORE TECHNOLOGIES)**
-  
-| سحـر الـخلفـية (Backend) | كـون الـهواتـف (Mobile) | سحـاب الـديفـوبـس (DevOps) |
+<!-- Tech Stack Grid - SUPPORTED -->
+<div align="center">
+  
+### **🔄 CORE TECHNOLOGIES**
+  
+| Backend Magic | Mobile Universe | DevOps Cloud |
 | :---: | :---: | :---: |
-| ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white&label=سبرينغ%20بوت) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&label=فلاتر) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&label=دوكر) |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&label=جافا) | ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&label=أندرويد) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&label=أمازون%20ويب%20سيرفيسز) |
-| ![REST API](https://img.shields.io/badge/REST%20API-FF6B6B?style=for-the-badge&logo=rest&logoColor=white&label=واجهات%20RESTful) | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&label=كوتلن) | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&label=جيت%20هاب%20أكشنز) |
+| ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) |
+| ![REST API](https://img.shields.io/badge/REST%20API-FF6B6B?style=for-the-badge&logo=rest&logoColor=white) | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) |
 
 </div>
 
-## 📊 **إتقان المهارات وتفوق الأداء** 🎯
-
-<div align="right">
-  
-```
-
-┌─────────────────────────────────────────┐
-│ تطوير الواجهات الخلفية (Backend)        │
-├─────────────────────────────────────────┤
-│ سبرينغ بوت  ████████████░░░░ 90%       │
-│ لغة جافا     ████████████████░░ 95%     │
-│ واجهات REST  ██████████████░░░░ 85%     │
-│ خدمات مصغرة  ████████████░░░░░ 80%     │
-└─────────────────────────────────────────┘
-
-┌─────────────────────────────────────────┐
-│ تطوير الهواتف الذكية (Mobile)           │
-├─────────────────────────────────────────┤
-│ إطار فلاتر   ██████████████░░░░ 88%      │
-│ نظام أندرويد ████████████░░░░░░ 75%      │
-│ لغة دارت     ██████████████░░░░ 85%      │
-│ فايربيس     ████████████░░░░░░ 78%      │
-└─────────────────────────────────────────┘
-
-┌─────────────────────────────────────────┐
-│ الأمن والتعلم (Security & Learning)     │
-├─────────────────────────────────────────┤
-│ أكاديمية بورت سويغر ████████████░░░░░░ 80%      │
-│ أمن تطبيقات الويب ███████████░░░░░░░ 70%      │
-│ شهادة W3Schools  ████████████████░░ 95%      │
-│ شهادة FreeCodeCamp███████████████░░░ 90%      │
-└─────────────────────────────────────────┘
+<!-- Skill Bars (ASCII Art) - SUPPORTED -->
+## 📊 **SKILL MASTERY**
 
 ```
-</div>
+┌─────────────────────────────────────────┐
+│ Backend Development                     │
+├─────────────────────────────────────────┤
+│ Spring Boot  ████████████░░░░ 90%       │
+│ Java         ████████████████░░ 95%     │
+│ REST API     ██████████████░░░░ 85%     │
+│ Microservices ████████████░░░░░ 80%     │
+└─────────────────────────────────────────┘
 
-## 📈 **ديناميكيات GitHub ونشاط التطوير** 🚀
+┌─────────────────────────────────────────┐
+│ Mobile Development                      │
+├─────────────────────────────────────────┤
+│ Flutter     ██████████████░░░░ 88%      │
+│ Android     ████████████░░░░░░ 75%      │
+│ Dart        ██████████████░░░░ 85%      │
+│ Firebase    ████████████░░░░░░ 78%      │
+└─────────────────────────────────────────┘
+
+┌─────────────────────────────────────────┐
+│ Security & Web                          │
+├─────────────────────────────────────────┤
+│ PortSwigger ████████████░░░░░░ 80%      │
+│ Web Security███████████░░░░░░░ 70%      │
+│ W3Schools   ████████████████░░ 95%      │
+│ FreeCodeCamp███████████████░░░ 90%      │
+└─────────────────────────────────────────┘
+```
+
+<!-- GitHub Stats with Animation - SUPPORTED -->
+## 📈 **GITHUB DYNAMICS**
 
 <div align="center">
-  
-    <img src="https://github-readme-stats.vercel.app/api?username=aymanaljamal&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&locale=ar" height="180" alt="إحصائيات GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymanaljamal&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=ffffff&locale=ar" height="180" alt="أكثر اللغات استخداماً" />
+  
+  <!-- GitHub Stats Cards -->
+  <img src="https://github-readme-stats.vercel.app/api?username=aymanaljamal&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymanaljamal&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=ffffff" height="180" />
 
-</div>
-<br>
-
-## 🎓 **الرحلة الأكاديمية (ACADEMIC ODYSSEY)** 📚
-
-<div align="right" style="background: linear-gradient(135deg, #0d1117 0%, #1a1f2e 100%); padding: 25px; border-radius: 20px; border: 1px solid #00D4FF;">
-  <div style="display: flex; align-items: center; justify-content: flex-end;">
-    <div style="margin-left: 15px; text-align: right;">
-      <h3 style="color: #00D4FF; margin-top: 0;">🎓 بكالوريوس في علوم الحاسوب</h3>
-      <p style="color: #ffffff; margin: 5px 0;">**جامعة بيرزيت - فلسطين**</p>
-    </div>
-    <img src="https://github.com/user-attachments/assets/bdb857e6-60d4-473f-b86d-286cf9060555" alt="شعار جامعة بيرزيت" width="60" style="border-radius: 5px;"/>
-  </div>
-  
-  <div style="display: flex; justify-content: flex-end; gap: 30px; margin-top: 20px;">
-    <div style="text-align: right;">
-      <div style="font-size: 24px; color: #7F52FF;">🎯</div>
-      <div style="color: #ffffff;">التخرج المتوقع: 2026</div>
-    </div>
-    <div style="text-align: right;">
-      <div style="font-size: 24px; color: #FF6B6B;">🏆</div>
-      <div style="color: #ffffff;">أحد أفضل طلاب الدفعة</div>
-    </div>
-  </div>
+  <!-- GitHub Streak - SUPPORTED -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aymanaljamal&theme=radical&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" height="180" />
+  
 </div>
 
-## 🚀 **مجرة المشاريع (PROJECT GALAXY)** 💡
+<!-- GitHub Trophies - SUPPORTED -->
+<div align="center">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=aymanaljamal&theme=radical&no-frame=true&row=1&column=4&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 
+</div>
+
+## 🎓 **ACADEMIC ODYSSEY**
+
+<!-- Education Card - SUPPORTED -->
+<div align="center" style="background: linear-gradient(135deg, #0d1117 0%, #1a1f2e 100%); padding: 25px; border-radius: 20px; border: 1px solid #00D4FF;">
+
+  ![Birzeit University](https://github.com/user-attachments/assets/bdb857e6-60d4-473f-b86d-286cf9060555)
+  
+  ### 🏛️ **BIRZEIT UNIVERSITY**
+  <h3 style="color: #00D4FF; margin-top: 10px;">🎓 Bachelor of Computer Science</h3>
+  
+  <div style="display: flex; justify-content: center; gap: 30px; margin-top: 20px;">
+    <div style="text-align: center;">
+      <div style="font-size: 24px; color: #FF6B6B;">🏆</div>
+      <div style="color: #ffffff;">Top Performer</div>
+    </div>
+    <div style="text-align: center;">
+      <div style="font-size: 24px; color: #00D4FF;">📚</div>
+      <div style="color: #ffffff;">GPA: 3.8/4.0</div>
+    </div>
+    <div style="text-align: center;">
+      <div style="font-size: 24px; color: #7F52FF;">🎯</div>
+      <div style="color: #ffffff;">Graduating 2026</div>
+    </div>
+  </div>
+  
+</div>
+
+## 🚀 **PROJECT GALAXY**
+
+<!-- Project Cards - SUPPORTED -->
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px; margin-top: 40px;">
 
-    <div style="background: linear-gradient(145deg, #1a1f2e, #0d1117); padding: 25px; border-radius: 15px; border: 1px solid #00D4FF; text-align: right;">
-    <div style="width: 100%; height: 3px; background: linear-gradient(90deg, #00D4FF, #7F52FF); margin-bottom: 15px;"></div>
-    <h3 style="color: #00D4FF; margin-bottom: 15px;">⚡ واجهة QuantumCommerce API</h3>
-    <p style="color: #ccc; margin-bottom: 15px;">منصة تجارة إلكترونية تعتمد على الخدمات المصغرة (Microservices) باستخدام Spring Boot و Docker.</p>
-    <div>
-      <span style="background: #00D4FF; color: #000; padding: 5px 10px; border-radius: 20px; font-size: 12px; margin-left: 5px;">Spring Boot</span>
-      <span style="background: #7F52FF; color: #fff; padding: 5px 10px; border-radius: 20px; font-size: 12px; margin-left: 5px;">Docker</span>
-      <span style="background: #FF6B6B; color: #fff; padding: 5px 10px; border-radius: 20px; font-size: 12px;">MySQL</span>
-    </div>
-  </div>
+  <!-- Project 1 -->
+  <div style="background: linear-gradient(145deg, #1a1f2e, #0d1117); padding: 25px; border-radius: 15px; border: 1px solid #00D4FF;">
+    <div style="width: 100%; height: 3px; background: linear-gradient(90deg, #00D4FF, #7F52FF); margin-bottom: 15px;"></div>
+    <h3 style="color: #00D4FF; margin-bottom: 15px;">⚡ QuantumCommerce API</h3>
+    <p style="color: #ccc; margin-bottom: 15px;">Microservices e-commerce platform with Spring Boot & Docker</p>
+    <div>
+      <span style="background: #00D4FF; color: #000; padding: 5px 10px; border-radius: 20px; font-size: 12px; margin-right: 5px;">Spring Boot</span>
+      <span style="background: #7F52FF; color: #fff; padding: 5px 10px; border-radius: 20px; font-size: 12px; margin-right: 5px;">Docker</span>
+      <span style="background: #FF6B6B; color: #fff; padding: 5px 10px; border-radius: 20px; font-size: 12px;">MySQL</span>
+    </div>
+  </div>
 
-    <div style="background: linear-gradient(145deg, #1a1f2e, #0d1117); padding: 25px; border-radius: 15px; border: 1px solid #FF6B6B; text-align: right;">
-    <div style="width: 100%; height: 3px; background: linear-gradient(90deg, #FF6B6B, #FF8E53); margin-bottom: 15px;"></div>
-    <h3 style="color: #FF6B6B; margin-bottom: 15px;">📱 تطبيق FitSync Pro للياقة</h3>
-    <p style="color: #ccc; margin-bottom: 15px;">تطبيق لياقة بدنية للهواتف الذكية (Flutter) مع مزامنة بيانات فورية عبر Firebase.</p>
-    <div>
-      <span style="background: #02569B; color: #fff; padding: 5px 10px; border-radius: 20px; font-size: 12px; margin-left: 5px;">Flutter</span>
-      <span style="background: #FFCB2B; color: #000; padding: 5px 10px; border-radius: 20px; font-size: 12px; margin-left: 5px;">Firebase</span>
-      <span style="background: #7F52FF; color: #fff; padding: 5px 10px; border-radius: 20px; font-size: 12px;">Dart</span>
-    </div>
-  </div>
+  <!-- Project 2 -->
+  <div style="background: linear-gradient(145deg, #1a1f2e, #0d1117); padding: 25px; border-radius: 15px; border: 1px solid #FF6B6B;">
+    <div style="width: 100%; height: 3px; background: linear-gradient(90deg, #FF6B6B, #FF8E53); margin-bottom: 15px;"></div>
+    <h3 style="color: #FF6B6B; margin-bottom: 15px;">📱 FitSync Pro</h3>
+    <p style="color: #ccc; margin-bottom: 15px;">Flutter fitness app with Firebase real-time sync</p>
+    <div>
+      <span style="background: #02569B; color: #fff; padding: 5px 10px; border-radius: 20px; font-size: 12px; margin-right: 5px;">Flutter</span>
+      <span style="background: #FFCB2B; color: #000; padding: 5px 10px; border-radius: 20px; font-size: 12px; margin-right: 5px;">Firebase</span>
+      <span style="background: #7F52FF; color: #fff; padding: 5px 10px; border-radius: 20px; font-size: 12px;">Dart</span>
+    </div>
+  </div>
 
-    <div style="background: linear-gradient(145deg, #1a1f2e, #0d1117); padding: 25px; border-radius: 15px; border: 1px solid #7F52FF; text-align: right;">
-    <div style="width: 100%; height: 3px; background: linear-gradient(90deg, #7F52FF, #00D4FF); margin-bottom: 15px;"></div>
-    <h3 style="color: #7F52FF; margin-bottom: 15px;">🛡️ مختبر CyberGuard للاختراق الأخلاقي</h3>
-    <p style="color: #ccc; margin-bottom: 15px;">بيئة اختبار أمان تعتمد على أدوات PortSwigger، لتعزيز مهارات الأمن السيبراني.</p>
-    <div>
-      <span style="background: #FF6B6B; color: #fff; padding: 5px 10px; border-radius: 20px; font-size: 12px; margin-left: 5px;">الأمن%20السيبراني</span>
-      <span style="background: #00D4FF; color: #000; padding: 5px 10px; border-radius: 20px; font-size: 12px; margin-left: 5px;">Python</span>
-      <span style="background: #3DDC84; color: #000; padding: 5px 10px; border-radius: 20px; font-size: 12px;">Linux</span>
-    </div>
-  </div>
+  <!-- Project 3 -->
+  <div style="background: linear-gradient(145deg, #1a1f2e, #0d1117); padding: 25px; border-radius: 15px; border: 1px solid #7F52FF;">
+    <div style="width: 100%; height: 3px; background: linear-gradient(90deg, #7F52FF, #00D4FF); margin-bottom: 15px;"></div>
+    <h3 style="color: #7F52FF; margin-bottom: 15px;">🛡️ CyberGuard Lab</h3>
+    <p style="color: #ccc; margin-bottom: 15px;">PortSwagger-based security testing environment</p>
+    <div>
+      <span style="background: #FF6B6B; color: #fff; padding: 5px 10px; border-radius: 20px; font-size: 12px; margin-right: 5px;">Security</span>
+      <span style="background: #00D4FF; color: #000; padding: 5px 10px; border-radius: 20px; font-size: 12px; margin-right: 5px;">Python</span>
+      <span style="background: #3DDC84; color: #000; padding: 5px 10px; border-radius: 20px; font-size: 12px;">Linux</span>
+    </div>
+  </div>
 
 </div>
 
-## 🛠️ **الترسانة التقنية** ⚙️
+<!-- Skills Icons - SUPPORTED -->
+## 🛠️ **TECHNICAL ARSENAL**
 
 <div align="center" style="margin: 40px 0;">
-  
-    <h3 style="color: #00D4FF;">🔧 تطوير الواجهات الخلفية</h3>
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
-    <img src="https://skillicons.dev/icons?i=spring,java,gradle,maven,hibernate,postgres,mysql" alt="أدوات الخلفية: سبرينغ، جافا، غرادل، مافن، هايبرنت، بوستغريس، ماي سكيول" />
-  </div>
-  
-    <h3 style="color: #FF6B6B; margin-top: 30px;">📱 الهواتف والواجهات الأمامية</h3>
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,firebase" alt="أدوات الهواتف: فلاتر، دارت، كوتلن، أندرويد ستوديو، فايربيس" />
-  </div>
-  
-    <h3 style="color: #7F52FF; margin-top: 30px;">☁️ ديفوبس والحوسبة السحابية</h3>
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
-    <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,nginx,linux" alt="أدوات ديفوبس: دوكر، AWS، جيت هاب أكشنز، نغينكس، لينكس" />
-  </div>
-  
-    <h3 style="color: #FFD700; margin-top: 30px;">⚙️ أدوات التطوير الأساسية</h3>
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
-    <img src="https://skillicons.dev/icons?i=idea,vscode,git,postman,github" alt="أدوات: IntelliJ IDEA، VSCode، Git، Postman، GitHub" />
-  </div>
+  
+  <!-- Backend Tools -->
+  <h3 style="color: #00D4FF;">🔧 Backend Development</h3>
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
+    <img src="https://skillicons.dev/icons?i=spring,java,gradle,maven,hibernate,postgres,mysql" />
+  </div>
+  
+  <!-- Mobile & Frontend -->
+  <h3 style="color: #FF6B6B; margin-top: 30px;">📱 Mobile & Frontend</h3>
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,firebase" />
+  </div>
+  
+  <!-- DevOps & Cloud -->
+  <h3 style="color: #7F52FF; margin-top: 30px;">☁️ DevOps & Cloud</h3>
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
+    <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,nginx,linux" />
+  </div>
+  
+  <!-- Tools -->
+  <h3 style="color: #FFD700; margin-top: 30px;">⚙️ Development Tools</h3>
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
+    <img src="https://skillicons.dev/icons?i=idea,vscode,git,postman,github" />
+  </div>
 
 </div>
 
-## 📚 **الشهادات والتعليم المستمر** 🥇
+## 📚 **CERTIFICATIONS & LEARNING**
 
 <div align="center">
-  
-  ![PortSwigger](https://img.shields.io/badge/أكاديمية_PortSwigger-خبير-FF6B6B?style=for-the-badge&logo=portswigger&logoColor=white)
-  ![W3Schools](https://img.shields.io/badge/W3Schools-ماستر-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white)
-  ![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-معتمد-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)
-  ![Spring](https://img.shields.io/badge/Spring_Professional-معتمد-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-  
+  
+  ![PortSwigger](https://img.shields.io/badge/PortSwigger_Academy-Expert-FF6B6B?style=for-the-badge&logo=portswigger&logoColor=white)
+  ![W3Schools](https://img.shields.io/badge/W3Schools-Master-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white)
+  ![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-Certified-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)
+  ![Spring](https://img.shields.io/badge/Spring_Professional-Certified-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  
 </div>
 
-## 🌐 **تواصل معي** 📧
+## 🌐 **CONNECT WITH ME**
 
 <div align="center" style="margin: 40px 0;">
-  
-    <a href="https://github.com/aymanaljamal" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 10px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/ayman-jamal-0a8416332" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 10px;" />
-  </a>
-  <a href="https://hub.docker.com/u/aymandocker219" target="_blank">
-    <img src="https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub" style="margin: 10px;" />
-  </a>
-  <a href="https://www.facebook.com/share/1GarkogthV/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="margin: 10px;" />
-  </a>
-  <a href="https://www.instagram.com/abu_aljamalll" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin: 10px;" />
-  </a>
+  
+  <!-- Social Links - SUPPORTED -->
+  <a href="https://github.com/aymanaljamal" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 10px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/ayman-jamal-0a8416332" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 10px;" />
+  </a>
+  <a href="https://hub.docker.com/u/aymandocker219" target="_blank">
+    <img src="https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub" style="margin: 10px;" />
+  </a>
+  <a href="https://www.facebook.com/share/1GarkogthV/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="margin: 10px;" />
+  </a>
+  <a href="https://www.instagram.com/abu_aljamalll" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin: 10px;" />
+  </a>
 
 </div>
 
+<!-- GitHub Activity Graph - SUPPORTED -->
 <div align="center">
-  
-  <h3 style="color: #FF6B6B; margin-bottom: 20px;">📊 مخطط نشاط التطوير</h3>
-  
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aymanaljamal&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=00D4FF&line=7F52FF&point=FF6B6B&locale=ar" width="100%" alt="مخطط نشاط GitHub" />
-  
+  
+  <h3 style="color: #FF6B6B; margin-bottom: 20px;">📊 DEVELOPMENT ACTIVITY</h3>
+  
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aymanaljamal&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=00D4FF&line=7F52FF&point=FF6B6B" width="100%" />
+  
 </div>
 
-<div align="center" style="margin: 50px 0; padding: 30px; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(127, 82, 255, 0.1) 100%); border-radius: 20px; border-right: 5px solid #00D4FF; border-left: 5px solid #7F52FF;">
-  
-  <h2 style="color: #00D4FF; font-style: italic;">"حل المشكلة أولاً. ثم، اكتب الكود."</h2>
-  <p style="color: #FFD700; margin-top: 10px;">- جون جونسون (John Johnson)</p>
-  
+<!-- Quote Section - SUPPORTED -->
+<div align="center" style="margin: 50px 0; padding: 30px; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(127, 82, 255, 0.1) 100%); border-radius: 20px; border-left: 5px solid #00D4FF; border-right: 5px solid #7F52FF;">
+  
+  <h2 style="color: #00D4FF; font-style: italic;">"First, solve the problem. Then, write the code."</h2>
+  <p style="color: #FFD700; margin-top: 10px;">- John Johnson</p>
+  
 </div>
 
+<!-- Footer - SUPPORTED -->
 <div align="center" style="margin-top: 50px; padding: 20px; border-top: 1px solid #00D4FF;">
-  
-  <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
-    <img src="https://img.shields.io/badge/الحالة-متاح%20للعمل-00D4FF?style=for-the-badge" alt="الحالة: متاح للعمل" />
-    <img src="https://img.shields.io/badge/متاح%20لـ-التعاون-7F52FF?style=for-the-badge" alt="متاح للتعاون" />
-    <img src="https://img.shields.io/badge/الموقع-فلسطين-FF6B6B?style=for-the-badge" alt="الموقع: فلسطين" />
-  </div>
-  
-  <p style="color: #00D4FF; margin-top: 20px; font-size: 14px;">
-    © 2025 أيمن الجمل • صُنع بشغف وتفانٍ
-  </p>
+  
+  <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00D4FF?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Available%20for-Collaborations-7F52FF?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Location-Palestine-FF6B6B?style=for-the-badge" />
+  </div>
+  
+  <p style="color: #00D4FF; margin-top: 20px; font-size: 14px;">
+    © 2025 Ayman Al-Jamal • Crafted with passion and dedication
+  </p>
 
 </div>
 
 ---
 
 <div align="center">
-  
-    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Faymanaljamal&label=الزوار&countColor=%2300D4FF&style=for-the-badge&labelStyle=none" alt="عداد الزوار" />
-  
+  
+  <!-- Visitor Counter - SUPPORTED -->
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Faymanaljamal&label=VISITORS&countColor=%2300D4FF&style=for-the-badge" />
+  
 </div>
 
-## 📞 **معلومات الاتصال** 📬
+## 📞 **CONTACT INFORMATION**
 
-<div align="right" style="background: #0d1117; padding: 20px; border-radius: 15px; margin-top: 30px; border: 1px solid #FFD700;">
-  
-  <p style="color: #ffffff;">
-    📧 **البريد الإلكتروني:** ayman.aljamal@example.com<br>
-    📍 **الموقع:** فلسطين<br>
-    🎯 **الحالة الوظيفية:** مفتوح للتدريب والوظائف بدوام كامل<br>
-    🔧 **مجالات التركيز:** تطوير الواجهات الخلفية | تطبيقات الهواتف الذكية | حلول الحوسبة السحابية
-  </p>
-  
+<div align="center" style="background: #0d1117; padding: 20px; border-radius: 15px; margin-top: 30px;">
+  
+  <p style="color: #ffffff;">
+    📧 <strong>Email:</strong> ayman.aljamal@example.com<br>
+    📍 <strong>Location:</strong> Palestine<br>
+    🎯 <strong>Status:</strong> Open for internships & full-time positions<br>
+    🔧 <strong>Focus:</strong> Backend Development | Mobile Apps | Cloud Solutions
+  </p>
+  
 </div>
 
+<!-- Additional GitHub Widgets - SUPPORTED -->
 <div align="center" style="margin-top: 30px;">
-  
-  <h3 style="color: #7F52FF; margin-bottom: 10px;">📊 إحصائيات المساهمات في GitHub</h3>
-  <img src="https://github-contributor-stats.vercel.app/api?username=aymanaljamal&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="إحصائيات المساهمات" />
-  
+  
+  ![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=aymanaljamal&limit=5&theme=radical&combine_all_yearly_contributions=true)
+  
 </div>
 
-## 💡 **فلسفة تقنية** ✨
+## 💡 **TECH PHILOSOPHY**
 
-<div align="right">
-> الكود الجيد هو أفضل توثيق في حد ذاته. قبل أن تضيف تعليقًا، اسأل نفسك: 'كيف يمكنني تحسين الكود بحيث لا أحتاج لهذا التعليق؟'
-> *- ستيف ماكونيل (Steve McConnell)*
-</div>
+> "Good code is its own best documentation. As you're about to add a comment, ask yourself, 'How can I improve the code so that this comment isn't needed?'"  
+> *- Steve McConnell*
 
 ---
 
-<div align="center">
-**✨ "كل مطور عظيم تعرفه وصل إلى ما هو عليه من خلال حل المشكلات التي لم يكن مؤهلاً لحلها حتى قام بالفعل بحلها." ✨**
-</div>
+**✨ "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." ✨**
 
-<div align="center" style="margin-top: 20px;">
-*آخر تحديث: ديسمبر 2025*
-</div>
-
-</div>
-```
+*Last Updated: December 2025*  
+*Profile Views: ![View Count](https://komarev.com/ghpvc/?username=aymanaljamal&label=Profile+Views&color=00D4FF&style=flat)*
