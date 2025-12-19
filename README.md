@@ -1,276 +1,125 @@
-# 🌟 **Ayman Jamal** 🚀  
-*Full-Stack Developer & Cloud Architect*
+# Hi there, I'm Ayman Al-Jamal 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&height=80&lines=Spring+Boot+%7C+Flutter+%7C+Docker+%7C+Android+Developer;Building+Scalable+Solutions+with+Clean+Code;Passionate+About+Backend+%26+Mobile+Development" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://cdn.dribbble.com/userupload/23222592/file/original-c8bbbfe77c09460ce990b268598ed119.gif" width="800" height="800" style="border-radius: 50%; border: 4px solid #00D4FF; box-shadow: 0 0 30px #00D4FF;" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aymanaljamal&color=00D4FF&style=flat-square" alt="Profile Views" width="180" />
-  <img src="https://img.shields.io/github/followers/aymanaljamal?color=00D4FF&style=flat-square&logo=github" alt="GitHub Followers" width="180" />
-  <img src="https://img.shields.io/github/stars/aymanaljamal?color=00D4FF&style=flat-square&logo=github" alt="GitHub Stars" width="180" />
-</div>
-
-
-
-## ✨ **TECHNICAL PANORAMA**
-
-<div align="left">
-
-### **🔄 CORE TECHNOLOGIES**
-
-| Backend Magic | Mobile Universe | DevOps Cloud |
-| :---: | :---: | :---: |
-| ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) |
-| ![REST API](https://img.shields.io/badge/REST%20API-FF6B6B?style=for-the-badge&logo=rest&logoColor=white) | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) |
-
-</div>
-
-## 📊 **SKILL MASTERY**
-
-<div align="left">
-
-```
-┌─────────────────────────────────────────┐
-│ Backend Development                     │
-├─────────────────────────────────────────┤
-│ Spring Boot  ████████████░░░░ 90%       │
-│ Java         ████████████████░░ 95%     │
-│ REST API     ██████████████░░░░ 85%     │
-│ Microservices ████████████░░░░░ 80%     │
-└─────────────────────────────────────────┘
-
-┌─────────────────────────────────────────┐
-│ Mobile Development                      │
-├─────────────────────────────────────────┤
-│ Flutter     ██████████████░░░░ 88%      │
-│ Android     ████████████░░░░░░ 75%      │
-│ Dart        ██████████████░░░░ 85%      │
-│ Firebase    ████████████░░░░░░ 78%      │
-└─────────────────────────────────────────┘
-
-┌─────────────────────────────────────────┐
-│ Security & Web                          │
-├─────────────────────────────────────────┤
-│ PortSwigger ████████████░░░░░░ 80%      │
-│ Web Security███████████░░░░░░░ 70%      │
-│ W3Schools   ████████████████░░ 95%      │
-│ FreeCodeCamp███████████████░░░ 90%      │
-└─────────────────────────────────────────┘
-```
-
-</div>
-
-## 📈 **GITHUB DYNAMICS**
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aymanaljamal&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymanaljamal&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=ffffff" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aymanaljamal&theme=radical&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" height="180" />
-</div>
-<div align="left">
-  <img src="https://img.shields.io/badge/Trophies-Top%20Contributions-00D4FF?style=flat-square&logo=github" alt="Trophies" />
-</div>
-
-
-## 🎓 **ACADEMIC ODYSSEY**
-
-<div align="left" style="background: linear-gradient(135deg, #0d1117 0%, #1a1f2e 100%); padding: 25px; border-radius: 20px; border: 1px solid #00D4FF; margin: 20px 0;">
-
-  ### 🏛️ **BIRZEIT UNIVERSITY**
-  <h3 style="color: #00D4FF; margin-top: 10px;">🎓 Bachelor of Computer Science</h3>
-  
-  <div style="display: flex; justify-content: flex-start; gap: 30px; margin-top: 20px;">
-    <div style="text-align: left;">
-      <div style="font-size: 24px; color: #FF6B6B;">🏆</div>
-      <div style="color: #ffffff;">Top Performer</div>
-    </div>
-    <div style="text-align: left;">
-      <div style="font-size: 24px; color: #7F52FF;">🎯</div>
-      <div style="color: #ffffff;">Graduating 2026</div>
-    </div>
-  </div>
-  
-</div>
-
-## 🚀 **PROJECT GALAXY**
-
-<div align="left" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px; margin-top: 40px;">
-
-  <!-- Project 1 -->
-  <div style="background: linear-gradient(145deg, #1a1f2e, #0d1117); padding: 25px; border-radius: 15px; border: 1px solid #00D4FF;">
-    <div style="width: 100%; height: 3px; background: linear-gradient(90deg, #00D4FF, #7F52FF); margin-bottom: 15px;"></div>
-    <h3 style="color: #00D4FF; margin-bottom: 15px;">⚡ QuantumCommerce API</h3>
-    <p style="color: #ccc; margin-bottom: 15px;">Microservices e-commerce platform with Spring Boot & Docker</p>
-    <div>
-      <span style="background: #00D4FF; color: #000; padding: 5px 10px; border-radius: 20px; font-size: 12px; margin-right: 5px;">Spring Boot</span>
-      <span style="background: #7F52FF; color: #fff; padding: 5px 10px; border-radius: 20px; font-size: 12px; margin-right: 5px;">Docker</span>
-      <span style="background: #FF6B6B; color: #fff; padding: 5px 10px; border-radius: 20px; font-size: 12px;">MySQL</span>
-    </div>
-  </div>
-
-  <!-- Project 2 -->
-  <div style="background: linear-gradient(145deg, #1a1f2e, #0d1117); padding: 25px; border-radius: 15px; border: 1px solid #FF6B6B;">
-    <div style="width: 100%; height: 3px; background: linear-gradient(90deg, #FF6B6B, #FF8E53); margin-bottom: 15px;"></div>
-    <h3 style="color: #FF6B6B; margin-bottom: 15px;">📱 FitSync Pro</h3>
-    <p style="color: #ccc; margin-bottom: 15px;">Flutter fitness app with Firebase real-time sync</p>
-    <div>
-      <span style="background: #02569B; color: #fff; padding: 5px 10px; border-radius: 20px; font-size: 12px; margin-right: 5px;">Flutter</span>
-      <span style="background: #FFCB2B; color: #000; padding: 5px 10px; border-radius: 20px; font-size: 12px; margin-right: 5px;">Firebase</span>
-      <span style="background: #7F52FF; color: #fff; padding: 5px 10px; border-radius: 20px; font-size: 12px;">Dart</span>
-    </div>
-  </div>
-
-  <!-- Project 3 -->
-  <div style="background: linear-gradient(145deg, #1a1f2e, #0d1117); padding: 25px; border-radius: 15px; border: 1px solid #7F52FF;">
-    <div style="width: 100%; height: 3px; background: linear-gradient(90deg, #7F52FF, #00D4FF); margin-bottom: 15px;"></div>
-    <h3 style="color: #7F52FF; margin-bottom: 15px;">🛡️ CyberGuard Lab</h3>
-    <p style="color: #ccc; margin-bottom: 15px;">PortSwagger-based security testing environment</p>
-    <div>
-      <span style="background: #FF6B6B; color: #fff; padding: 5px 10px; border-radius: 20px; font-size: 12px; margin-right: 5px;">Security</span>
-      <span style="background: #00D4FF; color: #000; padding: 5px 10px; border-radius: 20px; font-size: 12px; margin-right: 5px;">Python</span>
-      <span style="background: #3DDC84; color: #000; padding: 5px 10px; border-radius: 20px; font-size: 12px;">Linux</span>
-    </div>
-  </div>
-
-</div>
-
-## 🛠️ **TECHNICAL ARSENAL**
-
-<div align="left" style="margin: 40px 0;">
-  
-  <!-- Backend Tools -->
-  <h3 style="color: #00D4FF;">🔧 Backend Development</h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
-    <img src="https://skillicons.dev/icons?i=spring,java,gradle,maven,hibernate,postgres,mysql" />
-  </div>
-  
-  <!-- Mobile & Frontend -->
-  <h3 style="color: #FF6B6B; margin-top: 30px;">📱 Mobile & Frontend</h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,firebase" />
-  </div>
-  
-  <!-- DevOps & Cloud -->
-  <h3 style="color: #7F52FF; margin-top: 30px;">☁️ DevOps & Cloud</h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
-    <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,nginx,linux" />
-  </div>
-  
-  <!-- Tools -->
-  <h3 style="color: #FFD700; margin-top: 30px;">⚙️ Development Tools</h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
-    <img src="https://skillicons.dev/icons?i=idea,vscode,git,postman,github" />
-  </div>
-
-</div>
-
-## 📚 **CERTIFICATIONS & LEARNING**
-
-<div align="left">
-  
-  ![PortSwigger](https://img.shields.io/badge/PortSwigger_Academy-Expert-FF6B6B?style=for-the-badge&logo=portswigger&logoColor=white)
-  ![W3Schools](https://img.shields.io/badge/W3Schools-Master-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white)
-  ![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-Certified-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)
-  ![Spring](https://img.shields.io/badge/Spring_Professional-Certified-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-  
-</div>
-
-## 🌐 **CONNECT WITH ME**
-
-<div align="left" style="margin: 40px 0;">
-  
-  <!-- Social Links -->
-  <a href="https://github.com/aymanaljamal" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 10px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/ayman-jamal-0a8416332" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 10px;" />
-  </a>
-  <a href="https://hub.docker.com/u/aymandocker219" target="_blank">
-    <img src="https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub" style="margin: 10px;" />
-  </a>
-  <a href="https://www.facebook.com/share/1GarkogthV/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="margin: 10px;" />
-  </a>
-  <a href="https://www.instagram.com/abu_aljamalll" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin: 10px;" />
-  </a>
-
-</div>
-
-<div align="left">
-  
-  <h3 style="color: #FF6B6B; margin-bottom: 20px;">📊 DEVELOPMENT ACTIVITY</h3>
-  
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aymanaljamal&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=00D4FF&line=7F52FF&point=FF6B6B" width="100%" />
-  
-</div>
-
-<div align="left" style="margin: 50px 0; padding: 30px; background: linear-gradient(135deg, rgba(0, 212, 255, 0.1) 0%, rgba(127, 82, 255, 0.1) 100%); border-radius: 20px; border-left: 5px solid #00D4FF; border-right: 5px solid #7F52FF;">
-  
-  <h2 style="color: #00D4FF; font-style: italic;">"First, solve the problem. Then, write the code."</h2>
-  <p style="color: #FFD700; margin-top: 10px;">- John Johnson</p>
-  
-</div>
-
-<div align="left" style="margin-top: 50px; padding: 20px; border-top: 1px solid #00D4FF;">
-  
-  <div style="display: flex; gap: 15px; margin-bottom: 15px;">
-    <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00D4FF?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Available%20for-Collaborations-7F52FF?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Location-Palestine-FF6B6B?style=for-the-badge" />
-  </div>
-  
-  <p style="color: #00D4FF; margin-top: 20px; font-size: 14px;">
-    © 2025 Ayman Al-Jamal • Crafted with passion and dedication
-  </p>
-
+  <img src="https://cdn.dribbble.com/userupload/23222592/file/original-c8bbbfe77c09460ce990b268598ed119.gif" alt="Ayman Al-Jamal" width="800"/>
 </div>
 
 ---
 
-<div align="left">
-  
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Faymanaljamal&label=VISITORS&countColor=%2300D4FF&style=for-the-badge" />
-  
-</div>
+## 👨‍💻 About Me
 
-## 📞 **CONTACT INFORMATION**
+💡 **Passionate Software Developer** | **Spring Boot & REST API Expert** | **Docker & Cloud Enthusiast** | **Project Management Pro**
 
-<div align="left" style="background: #0d1117; padding: 20px; border-radius: 15px; margin-top: 30px;">
-  
-  <p style="color: #ffffff;">
-    📧 <strong>Email:</strong> ayman.aljamal@example.com<br>
-    📍 <strong>Location:</strong> Palestine<br>
-    🎯 <strong>Status:</strong> Open for internships & full-time positions<br>
-    🔧 <strong>Focus:</strong> Backend Development | Mobile Apps | Cloud Solutions
-  </p>
-  
-</div>
-
-<div align="left" style="margin-top: 30px;">
-  
-  ![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=aymanaljamal&limit=5&theme=radical&combine_all_yearly_contributions=true)
-  
-</div>
-
-## 💡 **TECH PHILOSOPHY**
-
-> "Good code is its own best documentation. As you're about to add a comment, ask yourself, 'How can I improve the code so that this comment isn't needed?'"  
-> *- Steve McConnell*
+I love **building innovative backend solutions, creating scalable APIs, and leveraging containerization for efficient deployments.** Always eager to **learn, collaborate, and contribute** to the tech community!
 
 ---
 
-**✨ "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." ✨**
+## 🎯 Interests & Expertise
 
-*Last Updated: December 2025*  
-*Profile Views: ![View Count](https://komarev.com/ghpvc/?username=aymanaljamal&label=Profile+Views&color=00D4FF&style=flat)*
+### Backend & APIs
+- **Java** (Spring Boot, REST APIs, Microservices)
+
+### Mobile Development
+- **Android**
+- **Flutter**
+
+### DevOps & Containers
+- Docker, CI/CD
+
+### Databases
+- MySQL, JPA/Hibernate
+
+### Tools & Languages
+- Python | C | IntelliJ | Git | Linux | PlantUML
+
+---
+
+## 🎓 Education
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/bdb857e6-60d4-473f-b86d-286cf9060555" alt="Birzeit University" width="120"/>
+  
+  **Birzeit University**  
+  *Computer Science Student*
+</div>
+
+---
+
+## 🛠️ Languages & Tools
+
+### Languages & Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+</p>
+
+### Tools
+
+#### 🔧 Backend Development
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
+</p>
+
+#### 📱 Mobile & Frontend
+<p align="center">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+</p>
+
+#### ☁️ DevOps & Cloud
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+
+#### ⚙️ Development Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/PlantUML-000000?style=for-the-badge&logo=plantuml&logoColor=white" alt="PlantUML"/>
+</p>
+
+### Operating Systems
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+</p>
+
+---
+
+## 🌍 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayman-al-jamal">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/ayman-al-jamal">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+🚀 *Let's collaborate on exciting projects and exchange knowledge!*
+
+---
+
+<div align="center">
+  
+📌 *For collaborations, projects, or networking opportunities, feel free to reach out!*
+
+### 🎖️ *"Innovation isn't just about ideas, it's about making them happen."*
+
+© 2025 Ayman Al-Jamal. All rights reserved.
+
+</div>
