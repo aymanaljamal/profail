@@ -220,10 +220,9 @@ Always eager to **learn, collaborate, and contribute** to the tech community!
 ---
 
 ## 🏆 GitHub Trophies
-
 <div align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=aymanaljamal&theme=radical&no-frame=true&no-bg=true&row=1&column=7"
+    src="https://github-profile-trophy.vercel.app/?username=aymanaljamal&theme=radical&no-frame=true&no-bg=true"
     width="100%"
   />
 </div>
@@ -274,12 +273,16 @@ Always eager to **learn, collaborate, and contribute** to the tech community!
 ## Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aymanaljamal/aymanaljamal/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aymanaljamal/aymanaljamal/output/github-contribution-grid-snake.svg">
-  <img alt="Snake Animation" src="https://raw.githubusercontent.com/aymanaljamal/aymanaljamal/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://raw.githubusercontent.com/aymanaljamal/aymanaljamal/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://raw.githubusercontent.com/aymanaljamal/aymanaljamal/output/github-contribution-grid-snake.svg">
+  <img alt="Snake Animation" 
+       src="https://raw.githubusercontent.com/aymanaljamal/aymanaljamal/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<br/><br/>
+
 
 ---
 
