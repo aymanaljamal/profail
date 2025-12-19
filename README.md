@@ -69,7 +69,14 @@ Always eager to **learn, collaborate, and contribute** to the tech community!
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60" align="left">
 
 ### Tools & Languages
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" /> Python | C | IntelliJ | Git | Linux | PlantUML
+<div align="left">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/uml/uml-original.svg" width="45"/>
+</div>
 
 </td>
 </tr>
@@ -219,18 +226,6 @@ Always eager to **learn, collaborate, and contribute** to the tech community!
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="left">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=aymanaljamal&theme=radical&no-frame=true&no-bg=true"
-    alt="GitHub Trophies"
-    width="100%"
-  />
-</div>
-
-
----
 
 ## Let's Connect!
 
