@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ayman%20Al-Jamal&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1e3c72,2a5298,3b7ddd&height=200&section=header&text=Ayman%20Al-Jamal&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
 </div>
+
 
 <div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=800&color=00D4FF&vCenter=true&width=900&lines=Passionate+Software+Developer;Spring+Boot+%7C+Flutter+%7C+Docker+%7C+Android;Building+Scalable+Backend+Solutions;REST+APIs+%7C+Microservices+%7C+Cloud;Clean+Code+%26+Innovation+Enthusiast" alt="Typing Animation" />
@@ -288,8 +289,8 @@ Always eager to **learn, collaborate, and contribute** to the tech community!
 
 © 2025 Ayman Al-Jamal. All rights reserved.
 
-</div>
-
+</div
+  >
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1e3c72,2a5298,3b7ddd&height=120&section=footer&animation=twinkling" width="100%"/>
 </div>
