@@ -223,11 +223,12 @@ Always eager to **learn, collaborate, and contribute** to the tech community!
 
 <div align="left">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=aymanaljamal&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15"
+    src="https://github-profile-trophy.vercel.app/?username=aymanaljamal&theme=radical&no-frame=true&no-bg=true"
     alt="GitHub Trophies"
     width="100%"
   />
 </div>
+
 
 ---
 
