@@ -13,7 +13,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
----
+
 
 ## About Me
 
@@ -29,7 +29,7 @@ Always eager to **learn, collaborate, and contribute** to the tech community!
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
----
+
 
 ## Interests & Expertise
 
@@ -85,7 +85,7 @@ Always eager to **learn, collaborate, and contribute** to the tech community!
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
----
+
 
 ## Education
 
@@ -99,7 +99,7 @@ Always eager to **learn, collaborate, and contribute** to the tech community!
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
----
+
 
 ## Languages & Technologies
 
@@ -165,7 +165,7 @@ Always eager to **learn, collaborate, and contribute** to the tech community!
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
----
+
 
 ## Tools by Category
 
@@ -197,7 +197,7 @@ Always eager to **learn, collaborate, and contribute** to the tech community!
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
----
+
 
 ## Operating Systems
 
@@ -209,7 +209,7 @@ Always eager to **learn, collaborate, and contribute** to the tech community!
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
----
+
 
 ## GitHub Stats
 
@@ -225,7 +225,7 @@ Always eager to **learn, collaborate, and contribute** to the tech community!
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
----
+
 
 
 ## Let's Connect!
@@ -255,7 +255,7 @@ Always eager to **learn, collaborate, and contribute** to the tech community!
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
----
+
 
 ## Profile Views & Activity
 
@@ -267,7 +267,7 @@ Always eager to **learn, collaborate, and contribute** to the tech community!
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
----
+
 
 ## Contribution Snake
 
@@ -275,7 +275,7 @@ Always eager to **learn, collaborate, and contribute** to the tech community!
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </div>
 
----
+
 
 <div align="left">
 
